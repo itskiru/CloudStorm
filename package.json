@@ -1,5 +1,5 @@
 {
-  "name": "Cloudstorm",
+  "name": "cloudstorm",
   "version": "0.1.4",
   "description": "Minimalistic Discord Gateway library",
   "main": "index.js",
